@@ -15,14 +15,23 @@ body {
     border-radius: 25px;
 }    
 .lado-direito{
-    text-align: center;
-    display: inline-block;
     width: 28%;
-    padding: 10px orange;
+    text-align: center;
+
+    
 }
 .lado-esquerdo{
     display: inline-block;
 }
 .minhas-informacoes {
     display: flex;
+    justify-content: center;
+    padding: 1em;
+    background-color:beige
+    
+}
+
+#minhas-competencias{
+    text-align: center;
+    display: inline;
 }
