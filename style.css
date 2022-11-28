@@ -23,7 +23,7 @@ body {
 .lado-esquerdo{
     display: inline-block;
 }
-.minhas-informacoes {
+.main {
     display: flex;
     justify-content: center;
     padding: 1em;
@@ -31,7 +31,7 @@ body {
     
 }
 
-#minhas-competencias{
+.minhas-competencias{
     text-align: center;
     display: inline;
 }
