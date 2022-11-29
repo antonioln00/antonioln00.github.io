@@ -25,17 +25,17 @@ for (let drawnNumber of megaSenaNumbers) {
 }
 
 
-for (let index = 0; index < megaSenaNumbers.length; index += 1) {
-    let drawnNumber = megaSenaNumbers[index];
-    // console.log("Numero sorteado", drawnNumber);
-    for (let cont = 0; cont < antonioGame.length; cont += 1) {
-        let studentNumber = antonioGame[cont];
-        // console.log("Numero Antonio", studentNumber);
-        if (drawnNumber === studentNumber) {
-            numberOfHits = numberOfHits + 1;
-        }
-    }
-}
+// for (let index = 0; index < megaSenaNumbers.length; index += 1) {
+//     let drawnNumber = megaSenaNumbers[index];
+//     // console.log("Numero sorteado", drawnNumber);
+//     for (let cont = 0; cont < antonioGame.length; cont += 1) {
+//         let studentNumber = antonioGame[cont];
+//         // console.log("Numero Antonio", studentNumber);
+//         if (drawnNumber === studentNumber) {
+//             numberOfHits = numberOfHits + 1;
+//         }
+//     }
+// }
 
 
 
