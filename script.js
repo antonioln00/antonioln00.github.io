@@ -21,3 +21,32 @@
 // } else {
 //     console.log("o maior número é o " + c + " (c)!")
 // };
+
+// const d = 10;
+
+// if (d => 10) {
+//     console.log("positive");
+// } else if (d < 10) {
+//     console.log ("negative");
+// } else {
+//     console.log("zero")
+// }
+
+// const anguloA = 45;
+// const anguloB = 45;
+// const anguloC = 90;
+
+// const somaTotal = anguloA + anguloB + anguloC;
+// // console.log(somaTotal);
+
+// const todosAngulosPositivos = anguloA > 0 && anguloB > 0 && anguloC > 0;
+
+// if (todosAngulosPositivos){
+//     if(somaTotal === 180) {
+//         console.log("true");
+//     } else {
+//         console.log("false");
+//     }
+// } else { 
+//     console.log("Erro: ângulo inválido")
+// }
