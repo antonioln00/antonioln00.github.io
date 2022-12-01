@@ -47,3 +47,23 @@ let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 //  } else {
 //     console.log(imparNUmber);
 //  }
+
+// let smallerNumber = numbers[0];
+
+// for (index = 1; index < numbers.length; index += 1) {
+//     if(numbers[index] < smallerNumber){
+//         smallerNumber = numbers[index]
+//     }
+// }
+
+// console.log(smallerNumber);
+
+let numbers2 = [];
+
+for (let index = 1; index <= 25; index += 1) {
+    numbers2.push(index);
+    for (let value = 0; value < numbers2.length; value +=1) {
+        console.log(numbers2[value]/2);
+    }
+}
+console.log(numbers2);
