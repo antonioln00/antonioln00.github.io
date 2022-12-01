@@ -25,5 +25,25 @@ let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 //     console.log("valor menor ou igual a 20")
 // }
 
+// let higherNumber = numbers[0];
 
+// for (index = 1; index < numbers.length; index += 1) {
+//     if(numbers[index] > higherNumber){
+//         higherNumber = numbers[index]
+//     }
+// }
 
+// console.log(higherNumber);
+
+// let imparNUmber = 0;
+
+// for (index = 0; index < numbers.length; index += 1){
+//     if (numbers[index] % 2 !== 0) {
+//         imparNUmber +=1;
+//     }
+// }
+//  if (imparNUmber === 0) {
+//     console.log("nenhum valor impar encontrado")
+//  } else {
+//     console.log(imparNUmber);
+//  }
