@@ -50,3 +50,44 @@
 // } else { 
 //     console.log("Erro: ângulo inválido")
 // }
+
+// let queen;
+
+// switch (queen) {
+//     case "frente":
+//         console.log("Ande para frente!");
+//         break;
+
+//     case "diagonalDireita":
+//         console.log("Ande para diagonal direita!")
+//         break;
+
+//     case "diagonalEsquerda":
+//         console.log("Ande para diagonal esquerda!")
+//         break;
+
+//     case "ladoDireito":
+//         console.log("Ande para o lado direito!")
+//         break;
+
+//     case "ladoEsquerdo":
+//         console.log("Ande para o lado esquerdo!")
+//         break;
+
+//     case "tras":
+//         console.log("Volte para trás!")
+//         break;
+
+//     case "diagonalDireitaTrás":
+//         console.log("Volte pela diagonal direita!")
+//         break;
+
+//     case "diagonalEsquerdaTrás":
+//         console.log("Volte pela diagonal esquerda!")
+//         break;
+
+//     default:
+//         console.log("Erro: peça inválida.")
+
+// }
+
