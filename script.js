@@ -24,4 +24,41 @@
 
 // console.log(reverseWord2)
 
-let array = ['java', 'javascript', 'python', 'html', 'css'];
+// let array = ['java', 'javascript', 'python', 'html', 'css'];
+
+// let maiorPalavra = array[0];
+// let menorPalavra = array[0];
+
+// for (index = 0; index < array.length; index +=1){
+//     if (array[index].length > maiorPalavra.length) {
+//         maiorPalavra = array[index];
+//     }
+// }
+// console.log(maiorPalavra);
+
+// for (value = 0; value < array.length; value +=1){
+//     if (array[value].length < menorPalavra.length) {
+//         menorPalavra = array[value];
+//     }
+// }
+
+// console.log(menorPalavra);
+
+
+// let numeroPrimo = numeroInt > 1 / 1 && numeroInt > 1 / numeroInt
+
+// let numeroPrimo = 0;
+
+// for (let currentNumber = 2; currentNumber <= 50; currentNumber +=1){
+//     let isPrime = true;
+//     for(let currentDivisor = 2; currentDivisor < currentNumber; currentDivisor +=1){
+//         if (currentNumber % currentDivisor === 0) {
+//             isPrime = false;
+//         }
+//     }
+//     if (isPrime){
+//         numeroPrimo = currentNumber;
+//     }
+// }
+
+// console.log(numeroPrimo);
